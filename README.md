@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-Mahmood-Ahmed
-- 👀 I’m interested in nothing
+- 👀 I’m interested in AI-ML 
 - 🌱 I’m currently learning App Dev
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Mahmood.ahmed6857@gmail.com
