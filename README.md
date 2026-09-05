@@ -1,4 +1,4 @@
-# Mahmood Ahmed
+# M.Mahmood Ahmad
 
 AI Engineer, 2+ years building production LLM systems, agent platforms, and scraping pipelines.
 
