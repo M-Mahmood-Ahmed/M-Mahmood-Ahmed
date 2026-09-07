@@ -6,16 +6,16 @@ I work on the stuff that breaks in production, not just in a notebook: LLM agent
 ## What I've built
 
 **MyBioAI Agent Platform**
-LLM agent platform with anti-hallucination guardrails — 95% factual accuracy, 99.5% uptime over 6 months, 100+ concurrent sessions. The architecture centered on constraining agent output against a verified knowledge base and catching drift before it reached users.
+LLM agent platform with anti-hallucination guardrails, 95% factual accuracy, 99.5% uptime over 6 months, 100+ concurrent sessions. The architecture centered on constraining agent output against a verified knowledge base and catching drift before it reached users.
 
 **Company & Technology Intelligence Scrapers**
-Production scraping pipelines with an LLM-based data enrichment layer (OpenAI API) — 95% scrape success rate across 1,400+ companies, 10,000+ records processed daily. Tested tree-of-thought, one-shot, and chain-of-thought-with-self-consistency prompting strategies for extraction accuracy; landed on self-consistency for the best reliability/cost tradeoff.
+Production scraping pipelines with an LLM-based data enrichment layer (OpenAI API), 95% scrape success rate across 1,400+ companies, 10,000+ records processed daily. Tested tree-of-thought, one-shot, and chain-of-thought-with-self-consistency prompting strategies for extraction accuracy; landed on self-consistency for the best reliability/cost tradeoff.
 
 **[PrevYou](https://prevyou.app)**
 Co-founded, live SaaS product. Virtual try-on powered by AI image generation.
 
 **Automated reporting pipeline**
-End-to-end pipeline turning scraped + enriched data into structured reports — cut a 4-hour manual weekly process to 15 minutes, no manual step in between.
+End-to-end pipeline turning scraped + enriched data into structured reports, cut a 4-hour manual weekly process to 15 minutes, no manual step in between.
 
 Most of my recent production work sits behind client NDAs, which is why it isn't in the repos below, happy to walk through architecture and design decisions directly.
 
